@@ -1,0 +1,13 @@
+#Name: Sumaya Rimi
+#Date: October 25th, 2019
+#Email: sumaya.rimi87@myhunter.cuny.edu
+import numpy as np
+import pandas as pd
+
+print((input("Enter recipe name:")))
+print("Double your recipe is:")
+
+
+print(Amount * 2)
+print(Measurement)
+print(Ingredient)
